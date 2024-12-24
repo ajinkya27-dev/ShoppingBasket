@@ -1,0 +1,15 @@
+C:\Projects\ShoppingBasket\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.exe
+C:\Projects\ShoppingBasket\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.deps.json
+C:\Projects\ShoppingBasket\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.runtimeconfig.json
+C:\Projects\ShoppingBasket\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.dll
+C:\Projects\ShoppingBasket\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.pdb
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.AssemblyInfoInputs.cache
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.AssemblyInfo.cs
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.csproj.CoreCompileInputs.cache
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.sourcelink.json
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.dll
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\refint\ShoppingBasket.dll
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.pdb
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.genruntimeconfig.cache
+C:\Projects\ShoppingBasket\ShoppingBasket\obj\Debug\net8.0\ref\ShoppingBasket.dll
